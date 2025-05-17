@@ -1,0 +1,43 @@
+.bg-img {
+  background-image: url("/imgs/mv.png");
+  background-size: cover;
+  background-position: 80% 82%;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+body {
+  font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.thumbnail-img {
+  width: 100%; /* 横幅を統一 */
+  height: 400px; /* 高さを統一 */
+  object-fit: cover;
+}
+
+
+.text-white {
+  text-shadow: 
+      -2px -2px 4px gray,
+      2px -2px 4px gray,
+      -2px 2px 4px gray,
+      2px 2px 4px gray;
+}
+
+.text-white p {
+  color: #333333;
+  text-shadow: 
+  -2px -2px 4px pink,
+  2px -2px 4px pink,
+  -2px 2px 4px pink,
+  2px 2px 4px pink;
+}
+
+footer.bg-dark {
+  background-color: #FADADD !important;
+}
+
+.text-white-50 {
+  color: gray !important;
+}
