@@ -1,5 +1,5 @@
 .bg-img {
-  background-image: url("/imgs/mv.png");
+  background-image: url("imgs/mv.png");
   background-size: cover;
   background-position: 80% 82%;
   padding-top: 5rem;
